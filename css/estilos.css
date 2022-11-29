@@ -1,6 +1,32 @@
 body 
 {
-    color: deeppink;
-    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    
     font-family: "Arial";
+    border: 1px black solid;
+}
+.Titulo
+{
+    color: white;
+    display: flex;
+    font-size: large;
+    background-color: blue;
+}
+.cabecera
+{
+    display: flex;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.palabritas
+{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#parrafito
+{
+
+    font-size: 40px;
+    
 }
