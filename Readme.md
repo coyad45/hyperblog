@@ -1,4 +1,4 @@
-# Hyperblog:tw-1f3ec:
+# Hyperblog :tw-1f3ec:
 un blog de practica.
 >Este blog se hizo usando el curso de git y github de platzi como base.
 
